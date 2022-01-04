@@ -1,0 +1,106 @@
+body{
+    font-family: 'Bitter', serif;
+font-family: 'Lobster', cursive;
+margin: 0;
+
+
+}
+span{
+    color: red;
+}
+.para{
+    display: flex;
+    padding-left: 30px;
+   background: url(images/top-banner.png);
+   background-repeat: no-repeat;
+   
+   
+}
+.para img{
+    height: 80%;
+  
+}
+.font{
+    font-size: 30px;
+}
+.link{
+   text-decoration: none;
+
+   background-image: linear-gradient(tomato, yellow);
+   border-radius: 10px;
+   padding: 10px;
+  color: rgb(24, 24, 209);
+  font-weight: bold;
+}
+.text{
+    text-align: justify;
+}
+.new{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.new img{
+   padding-left: 70px;
+    height: 70%;
+
+
+}
+.mama{
+   background-image: linear-gradient(white, tomato);
+   border-radius: 5px;
+   padding: 10px;
+   font-weight: bolder;
+}
+.use{
+    display: flex;
+    box-shadow: 20px 10px 40px rebeccapurple;
+    width: 60%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 20px;
+    
+}
+.we{
+    color: brown;
+}
+.add{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.another{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.pop{
+   display: flex;
+   padding-bottom: 40px;
+   text-align: justify;
+  
+}
+.hi{
+    padding-left: 60px;
+    font-size: 40px;
+}
+.one{
+    box-shadow: 15px 15px 40px tomato;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+.other{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    padding-bottom: 60px;
+}
+.center{
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: bolder;
+    font-size: 40px;
+}
